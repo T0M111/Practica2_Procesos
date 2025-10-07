@@ -1,1 +1,1 @@
-# Pr-ctica2_Procesos
+# Practica2_Procesos
